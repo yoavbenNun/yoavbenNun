@@ -25,16 +25,25 @@ Full-stack file management project with separate Web and Mobile versions.
 - Maintained separate branches for platform-specific versions: `Web_version` and `Mobile_version`.
 - Focused on clean client-server structure, practical UI behavior, and readable project organization.
 
+### [Real-Time Market Pipeline & Anomaly Detector](https://github.com/yoavbenNun/crypto-data-pipeline)
+
+Python data pipeline for fetching live financial data, detecting statistical market anomalies, and presenting real-time insights.
+
+- Built a FastAPI backend with scheduled data ingestion, SQLite persistence, and WebSocket updates.
+- Used Pandas and NumPy to calculate rolling-window Z-Scores for dynamic anomaly detection.
+- Added a Streamlit dashboard for live visualization and Telegram alerts for significant market events.
+
 ## Technical Focus
 
 - C++ development with Qt 6, QML, CMake, and unit testing.
+- Python backend and data-processing workflows with FastAPI, Pandas, WebSockets, and Streamlit.
 - Backend and full-stack fundamentals, including API design and data-driven application structure.
 - Performance-oriented refactoring: finding real bottlenecks, measuring runtime, and optimizing without changing external behavior.
 - Software design practices: layered architecture, service boundaries, worker threads, strategy-based validation, and maintainable test coverage.
 
 ## Technologies
 
-`C++` `Qt 6` `QML` `CMake` `Java` `JavaScript` `React` `Node.js` `Git` `GitHub` `Agile`
+`C++` `Qt 6` `QML` `CMake` `Python` `FastAPI` `Pandas` `Streamlit` `Java` `JavaScript` `React` `Node.js` `Git` `GitHub` `Agile`
 
 ## What I Care About
 
