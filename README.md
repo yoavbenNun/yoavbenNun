@@ -1,10 +1,10 @@
-# Yoav Ben Noon
+# Yoav Ben-Noon
 
-Software Engineering student focused on building practical, maintainable systems with clean architecture, strong testing habits, and thoughtful user-facing behavior.
+Third-year Software Engineering student focused on building practical, maintainable systems with clean architecture, strong testing habits, and thoughtful user-facing behavior.
 
 I enjoy working close to the product and close to the code: understanding the real workflow, modeling the problem clearly, and then implementing solutions that are reliable enough to explain, test, and improve.
 
-[LinkedIn](https://www.linkedin.com/in/yoavbennoon/) | [GitHub](https://github.com/yoavbenNun)
+[LinkedIn](https://www.linkedin.com/in/yoavbennoon/)
 
 ## Featured Projects
 
@@ -24,10 +24,6 @@ Full-stack file management project with separate Web and Mobile versions.
 - Built a file-drive style application with user-facing flows for managing stored files and navigating project data.
 - Maintained separate branches for platform-specific versions: `Web_version` and `Mobile_version`.
 - Focused on clean client-server structure, practical UI behavior, and readable project organization.
-
-### Operating Systems Assignment 3
-
-Systems programming assignment focused on low-level implementation details, process behavior, synchronization, and correctness under constrained execution.
 
 ## Technical Focus
 
